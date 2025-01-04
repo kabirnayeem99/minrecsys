@@ -1,0 +1,8 @@
+- The CLI will be like REFL
+- We can say create user
+- It will ask name
+- It will ask age, gender, favourite color
+- After done, it will give a list of items name, color, category, and price
+- user can 'buy item', 'check item', 'not recommend item'.
+- based on it, the recommendation buy list will be updated/sorted differently.
+- new user with same age, gender or favourite color will be recommended based on previous users' choice. 
